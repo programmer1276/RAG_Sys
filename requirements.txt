@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+biopython
+streamlit
+python-dotenv
+pandas
+matplotlib
+seaborn
